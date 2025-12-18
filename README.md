@@ -18,4 +18,4 @@ A security utility script that generates high-entropy random passwords. This pro
 1. Ensure Python is installed.
 2. Run the script:
    ```bash
-   python pass_gen.py
+   python passgenerator.py
